@@ -1,0 +1,168 @@
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\appsettings.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.exe
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.deps.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.runtimeconfig.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\ref\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.pdb
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.Views.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.Views.pdb
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csprojAssemblyReference.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorAssemblyInfo.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\staticwebassets\aspnetcoreapp.StaticWebAssets.Manifest.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\staticwebassets\aspnetcoreapp.StaticWebAssets.xml
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\scopedcss\bundle\aspnetcoreapp.styles.css
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.TagHelpers.input.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.TagHelpers.output.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorCoreGenerate.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorTargetAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorTargetAssemblyInfo.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.Views.pdb
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\ref\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.pdb
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.genruntimeconfig.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CopyComplete
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\appsettings.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.exe
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.deps.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.runtimeconfig.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\ref\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.pdb
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.Views.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.Views.pdb
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csprojAssemblyReference.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorAssemblyInfo.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\staticwebassets\aspnetcoreapp.StaticWebAssets.Manifest.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\staticwebassets\aspnetcoreapp.StaticWebAssets.xml
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\scopedcss\bundle\aspnetcoreapp.styles.css
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.TagHelpers.input.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.TagHelpers.output.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorCoreGenerate.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorTargetAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorTargetAssemblyInfo.cs
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.Views.pdb
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\ref\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.pdb
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.genruntimeconfig.cache
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CopyComplete
+<<<<<<< HEAD
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\nuget.config
+=======
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.pdb
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\appsettings.Development.json
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\appsettings.json
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\nuget.config
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.exe
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.deps.json
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.runtimeconfig.json
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.runtimeconfig.dev.json
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.dll
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\ref\aspnetcoreapp.dll
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.pdb
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.Views.dll
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.Views.pdb
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.AssemblyReference.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.AssemblyInfoInputs.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.AssemblyInfo.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.MvcApplicationPartsAssemblyInfo.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorAssemblyInfo.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorAssemblyInfo.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\staticwebassets\aspnetcoreapp.StaticWebAssets.Manifest.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\staticwebassets\aspnetcoreapp.StaticWebAssets.xml
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\scopedcss\bundle\aspnetcoreapp.styles.css
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.TagHelpers.input.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.TagHelpers.output.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorCoreGenerate.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorTargetAssemblyInfo.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorTargetAssemblyInfo.cs
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.Views.pdb
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.dll
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\ref\aspnetcoreapp.dll
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.genruntimeconfig.cache
+D:\Dev\Wakanda\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CopyComplete
+>>>>>>> ff653e88ea57cfa95270c37c0ac861b0572b8244
+C:\Users\gmolopo\Desktop\Repo\MC Wakanda Repo\GT Template Repo\POC\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\web.config
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\nuget.config
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\web.config
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\appsettings.json
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.exe
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.deps.json
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.runtimeconfig.json
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.runtimeconfig.dev.json
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\ref\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.pdb
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.Views.dll
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\bin\Debug\net5.0\aspnetcoreapp.Views.pdb
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csprojAssemblyReference.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.AssemblyInfoInputs.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.AssemblyInfo.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CoreCompileInputs.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorAssemblyInfo.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\staticwebassets\aspnetcoreapp.StaticWebAssets.Manifest.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\staticwebassets\aspnetcoreapp.StaticWebAssets.xml
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\scopedcss\bundle\aspnetcoreapp.styles.css
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.TagHelpers.input.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.TagHelpers.output.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorCoreGenerate.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Error.cshtml.g.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Index.cshtml.g.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorTargetAssemblyInfo.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.RazorTargetAssemblyInfo.cs
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.Views.pdb
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\ref\aspnetcoreapp.dll
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.pdb
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.genruntimeconfig.cache
+C:\Users\gmolopo\Desktop\wakanda_devops_poc\aspnetcoreapp\obj\Debug\net5.0\aspnetcoreapp.csproj.CopyComplete

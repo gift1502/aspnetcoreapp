@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "aspnetcoreapp", "aspnetcoreapp.csproj", "{BCD9F7B9-AD69-413E-BB84-7E6697AFAC5D}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "unittests", "..\unittests\unittests.csproj", "{89770603-A973-42ED-BC7F-8D287CD1CAC4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BCD9F7B9-AD69-413E-BB84-7E6697AFAC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCD9F7B9-AD69-413E-BB84-7E6697AFAC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCD9F7B9-AD69-413E-BB84-7E6697AFAC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCD9F7B9-AD69-413E-BB84-7E6697AFAC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89770603-A973-42ED-BC7F-8D287CD1CAC4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89770603-A973-42ED-BC7F-8D287CD1CAC4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89770603-A973-42ED-BC7F-8D287CD1CAC4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89770603-A973-42ED-BC7F-8D287CD1CAC4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6DD4BBF0-689C-43BE-B6B3-7171253A1BD4}
+	EndGlobalSection
+EndGlobal
